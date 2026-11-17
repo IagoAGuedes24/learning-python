@@ -2,7 +2,7 @@
 
 Curso de Python Completo - Code Academy BR - 13 horas
 Aula 01 - Python, instalação e primeiro código (00:00:00 - 00:20:09)
-Primeiros e Conceitos da linguagem Python.
+Primeiros Passos e Conceitos da linguagem Python.
 
 """
 
