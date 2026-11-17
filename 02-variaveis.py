@@ -1,3 +1,11 @@
+"""
+
+Curso de Python Completo - Code Academy BR - 13 horas
+Aula 02 - VS Code, terminal, variáveis e erros (00:20:10 - 00:47:08)
+Conceitos e Boas práticas com variáveis; Ordem de execução e Lidando com erros.
+
+"""
+
 #Variáveis
 #O exemplo abaixo mostra como criar uma variável e atribuir um valor a ela.
 #Além de mostrar que justamente devido ao significado da palavra variável, o valor de uma variável pode ser alterado a qualquer momento.

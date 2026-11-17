@@ -1,3 +1,11 @@
+"""
+
+Curso de Python Completo - Code Academy BR - 13 horas
+Aula 01 - Python, instalação e primeiro código (00:00:00 - 00:20:09)
+Primeiros e Conceitos da linguagem Python.
+
+"""
+
 #Python é linguagem interpretada
 #Estou aprendendo Python usando terminal Linux com WSL
 #Curso de Fundamentos da Code Academy BR - 13 horas
